@@ -1,7 +1,4 @@
 <h1 align="left">Hi 👋, I'm Francisco Chensan</h1>
-<h3 align="left">Final Year Computer Engineering Student at National University of Singapore (NUS).</h3>
-
-- 🔭 I’m currently working on **Network Traffic Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
